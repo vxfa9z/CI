@@ -1,0 +1,2 @@
+- For each of the niche languages, I shall find and build a project that helps me understand and utilize the language.
+- The learning and implementation should take 2-4 hours overall.

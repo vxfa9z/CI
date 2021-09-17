@@ -1,0 +1,13 @@
+# The Lox Language
+
+```
+// Print is a built-in statement, not a library function. Hence, no parentheses.
+print "Hello, world!";
+```
+
+
+- Lox is a member of the C family. A high-level, compact language that looks like JavaScript. 
+
+> C’s most egregious grammar problems are around types. Dennis Ritchie had this idea called “declaration reflects use”, where variable declarations mirror the operations you would have to perform on the variable to get to a value of the base type. Clever idea, but I don’t think it worked out great in practice.
+
+- Lox is **Dynamically Typed**. Variables can store values of any types, and a variable can store values of different types at different times. It does not have static types. Errors resulting from operations on values of the wrong types, are detected and reported at runtime.
